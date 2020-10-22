@@ -1,0 +1,9 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      717     716     717       3924  pty0      197609   Oct 19 /usr/bin/bash
+     1401       1    1401      28028  ?         197609 20:26:54 /usr/bin/mintty
+     1585    1402    1585      14032  pty2      197609 21:05:11 /usr/bin/ps
+     1307    1306    1307      27988  pty1      197609 15:26:46 /usr/bin/bash
+     1579       1    1579      28776  ?         197609 21:05:00 /usr/bin/ssh-agent
+      716       1     716      16152  ?         197609   Oct 19 /usr/bin/mintty
+     1306       1    1306      31604  ?         197609 15:26:46 /usr/bin/mintty
+     1402    1401    1402      29300  pty2      197609 20:26:54 /usr/bin/bash
